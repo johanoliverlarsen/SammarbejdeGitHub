@@ -1,17 +1,12 @@
-package Lesson04;
+package Tivoliride;
 
 import java.util.Scanner;
 
 private class Tivoliride {
     double hoejde =;
 
-    public Tivoliride(hoejde) {
+    public Tivoliride(int hoejde); {
         this.hoejde = hoejde
     }
-
-    public Tivoliride(hoejde) {
-        Scanner scanner = new Scanner(System.in);
-    }
-
 
 }
