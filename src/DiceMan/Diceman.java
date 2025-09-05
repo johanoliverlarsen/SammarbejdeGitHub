@@ -17,7 +17,8 @@ public class Diceman {
     this.4 = 4;
     this.5 = 5;
     this.6 = 6;
-    this.antalRolls = antalRolls
+    this.antalRolls = antalRolls;
+
 
 
     public void whileLoop(antalRolls){
@@ -25,28 +26,28 @@ public class Diceman {
 
     }
 
-    public void listActivity {
+    public void doActivity {
         if(diceRoll == 1) {
-            system.out.print(String 1);
+            System.out.print(String 1);
         } else {
             if (diceRoll == 2) {
-                system.out.print(String 2);
+                System.out.print(String 2);
             }
         } else {
             if (diceRoll == 3) {
-                system.out.print(String 3);
+                System.out.print(String 3);
             }
         } else {
             if (diceRoll == 4) {
-                system.out.print(String 4);
+                System.out.print(String 4);
             }
         } else {
             if (diceRoll == 5) {
-                system.out.print(String 5);
+                System.out.print(String 5);
             }
         } else{
             if (diceRoll == 6) {
-                system.out.print(String 6);
+                System.out.print(String 6);
             }
         }
 
