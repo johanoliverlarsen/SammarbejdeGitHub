@@ -1,14 +1,14 @@
 package Tivoliride;
 
-import java.util.Scanner;
+public class Tivoliride {
+    //Attributes
+    int height;
+    boolean highEnough;
 
-private class Tivoliride {
-    double hoejde =;
-    double vægt;
-    double something;
-
-    public Tivoliride(int hoejde); {
-        this.hoejde = hoejde
+    //Konstruktør
+    public void heightAssessment (int height, boolean highEnough) {
+        this.height = height;
+        this.highEnough = highEnough;
     }
 
 }

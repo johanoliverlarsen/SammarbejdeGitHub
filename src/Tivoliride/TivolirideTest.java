@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TivolirideTest {
     public static void main (String[] args){
 
-        //Opretter scanner og tildeler værdi til highEnough
+        //Opretter scanner objekt og tildeler værdi til highEnough
         Scanner scanner = new Scanner(System.in);
         boolean highEnough = true;
 
